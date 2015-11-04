@@ -1,2 +1,2 @@
-# thoughts
-fragments and feelings
+# status:
+under construction
